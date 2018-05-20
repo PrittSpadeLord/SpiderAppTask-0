@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SpiderAppTask0</string>
+    <string name="rand_num">0</string>
+    <string name="your_num">0</string>
+
+    <string name="rs_10">Rs.10</string>
+    <string name="rs_5">Rs.05</string>
+    <string name="rs_2">Rs.02</string>
+    <string name="rs_1">Rs.01</string>
+
+    <string name="r_10_p">+</string>
+    <string name="r_10_m">-</string>
+    <string name="r_5_p">+</string>
+    <string name="r_5_m">-</string>
+    <string name="r_2_p">+</string>
+    <string name="r_2_m">-</string>
+    <string name="r_1_p">+</string>
+    <string name="r_1_m">-</string>
+</resources>
